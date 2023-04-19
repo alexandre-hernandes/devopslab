@@ -4,7 +4,7 @@
 
 Aplicação Simples em Python/Flask com teste usando Unittest
 
-<h1 align="center">Hi 👋, We are Grupo-05</h1>
+<h1 align="center">Olá 👋, Somos o Grupo-05</h1>
 <h2 align="center">Alisson Batista de Souza Santana </h2>
 <h2 align="center">Alexandre Lanzilo Baccega </h2>
 <h2 align="center">Alexandre Nunes Hernandes </h2>
